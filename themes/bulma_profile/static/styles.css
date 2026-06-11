@@ -10,23 +10,23 @@ body {
 }
 
 .first-color { 
-	background: #b6e1e0; 
+	background: #AA6373; 
 }
 	
 .second-color { 
-	background: #9cd3d3; 
+	background: #F0F2A6; 
 }
 
 .third-color { 
-	background: #e8630a; 
+	background: #822e81; 
 }
 
 .main-colour {
-  color: #e8630a;
+  color: #822e81;
 }
 
 .secondary-colour {
-  background-color: #2b4353;
+  background-color: #AA6373;
 }
 
 .section {
@@ -38,8 +38,14 @@ body {
       padding: 18rem 1.5rem; } }
 
 .footer {
-  background-color: #9cd3d3;
-  padding: 3rem 1.5rem 6rem; }
+  background-color: #392061;
+  padding: 3rem 1.5rem 6rem; 
+  color: #fff;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: underline; }
 
 body {
   font-family: 'Raleway', sans-serif; }
@@ -48,7 +54,7 @@ body {
   height: 10px; }
 
 .hr {
-  border-bottom: 10px solid #e8630a;
+  border-bottom: 10px solid #822e81;
   margin: 0 1.5rem; }
 
 .section {
@@ -70,7 +76,7 @@ body {
   .awards .title,
   .languages .title {
     padding: .5em 0;
-    border-bottom: 1px solid #e8630a; }
+    border-bottom: 1px solid #822e81; }
 
 .experience .item,
 .education .item,

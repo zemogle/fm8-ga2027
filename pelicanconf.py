@@ -2,6 +2,7 @@ AUTHOR = 'Edward Gomez'
 SITESUBTITLE = '17 &amp; 18 August 2027 - IAU GA2027 Focus Meeting 8'
 SITENAME = 'AI in Astronomy Education and Outreach: Opportunities and Risks'
 SITEURL = 'https://fm8-ga2027.zemogle.net/'
+# SITEURL = '/'
 
 PATH = 'content'
 

@@ -1,4 +1,4 @@
-Title: Scientific Rati
+Title: Scientific Rationale
 slug: rationale
 
 ## 1. Context
