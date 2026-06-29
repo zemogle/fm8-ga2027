@@ -9,7 +9,7 @@ Date: 2022-03-03 10:20
 
 ## Registration
 
-For details of registration, please visit the [IAU General Assembly 2027 website](https://www.astronomy2024.org).
+For details of registration, please visit the [IAU General Assembly 2027 website](https://iaurome2027.org/registration/ ).
 
 ### Summary
 
