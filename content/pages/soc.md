@@ -3,7 +3,7 @@ Title: Scientific Organizing Committee
 ## SOC Co-Chairs
 First Name | Last Name | Institution | Country | Gender
 -----------|-----------|-------------|---------|--------
-<a href="mailto:livia.giacomini@inaf.it">Livia</a> | <a href="mailto:livia.giacomini@inaf.it">Giacomini</a> | NAF National institute for Astrophysics | Italy | F
+<a href="mailto:livia.giacomini@inaf.it">Livia</a> | <a href="mailto:livia.giacomini@inaf.it">Giacomini</a> | INAF National institute for Astrophysics | Italy | F
 Edward | Gomez | Cardiff University | UK | M
 
 ## SOC Members
